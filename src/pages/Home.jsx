@@ -32,7 +32,7 @@ const Home = () => {
             <h1 className="text-4xl md:text-5xl font-extrabold mt-2">Jerwin Nico</h1>
 
             <h2 className="text-xl md:text-2xl mt-4">
-            I am a <span className="text-blue-400">{text}</span>
+            I love <span className="text-blue-400">{text}</span>
             <span className="animate-pulse">|</span>
             </h2>
 
